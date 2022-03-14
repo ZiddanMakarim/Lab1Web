@@ -1,4 +1,4 @@
-# Lab1Web
+# Lab_tag_dasar.html
 
 | Ziddan Makarim | 312010063 |
 | -------------- | --------- |
@@ -9,7 +9,7 @@
 
 Ini adalah hasil dari tag <p>
 
-### contoh codingan
+## contoh coding
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -55,7 +55,7 @@ Ini adalah contoh heading, heading sendiri adalah sebagai judul dari sebuah arti
 </html>
 ```
 
-## teks format
+## Teks format
 ![menambahkan_teksformat](img/teks_format1.png)
 
 Ini adalah contoh dari teks format seperti menambahkan (span) untuk warna teks atau background-color teks, sementara untuk bold memiliki code (b) untuk cetak tebal, dan untuk teks miring yaitu memiliki code (i) dan garis bawah yaitu (u)
@@ -83,7 +83,7 @@ Ini adalah contoh dari teks format seperti menambahkan (span) untuk warna teks a
 </html>
 ```
 
-## menambahkan gambar
+## Menambahkan gambar
 ![menambahkan_gambar](img/logo.png)
 
 Ini adalah tag bagaimana menambahkan foto ke dalam HTML yaitu dengan menggunakan tag (img) kemudian simpan file source difolder yang sudah dibuat sebelumnya
@@ -121,7 +121,7 @@ Ini adalah tag bagaimana menambahkan foto ke dalam HTML yaitu dengan menggunakan
 </html>
 ```
 
-## menambahkan link
+## Menambahkan link
 ![menambahkan_link](img/link.png)
 
 Ini adalah tag link menggunakan tag navigasi dimana tag tersebut seoerti (a herf) link ini akan menuju internal atau eksternal
